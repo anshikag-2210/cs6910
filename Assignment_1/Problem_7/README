@@ -1,0 +1,14 @@
+
+
+
+
+Open the ipython notebook using kaagle/Google Collab.
+
+Upload load_data.py file in current session.
+
+Note: If using Jupyter then please ensure that load_data.py and problem_3.ipynb files are in same directory.
+
+load_data.py: This file load the fashion_MNIST data
+
+Problem_7.ipynb: Code for plotting confusion matrix. 
+
