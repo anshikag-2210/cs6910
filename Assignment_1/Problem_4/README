@@ -8,5 +8,6 @@ Note: If using Jupyter then please ensure that load_data.py and problem_3.ipynb 
 
 load_data.py: This file load the fashion_MNIST data
 
-Problem_4.ipynb: This file contains the training and testing of the dataset
+Problem_4.ipynb: This file contains the code for running the model for different combinations of hyperparameters.
+		 It also contains the code to connect with wandb for exercising the wandb's sweep functionality.
 
