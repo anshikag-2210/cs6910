@@ -1,0 +1,13 @@
+
+
+Open the ipython notebook using kaagle/Google Collab.
+
+Upload load_data.py file in current session.
+
+Note: If using Jupyter then please ensure that load_data.py and problem_10.ipynb files are in same directory.
+
+load_data.py: This file load the MNIST data
+
+Problem_10.ipynb: This file contains the code for running the model for intelligently chosen combinations of hyperparameters.
+		 It also contains the code to connect with wandb for exercising the wandb's sweep functionality.
+
